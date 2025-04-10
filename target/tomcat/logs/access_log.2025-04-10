@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:15:49:38 -0300] "GET /meu-projeto-jsp/index HTTP/1.1" 404 993 http-bio-8080-exec-1 26
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:15:49:41 -0300] "GET / HTTP/1.1" 200 702 http-bio-8080-exec-3 165
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:15:49:51 -0300] "POST /index.xhtml;jsessionid=3DD79C3593069128D6D80DD2A22DAB9A HTTP/1.1" 200 974 http-bio-8080-exec-4 72
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:15:50:03 -0300] "POST /index.xhtml HTTP/1.1" 200 972 http-bio-8080-exec-5 24
